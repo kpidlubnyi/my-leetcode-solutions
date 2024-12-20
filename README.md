@@ -4,7 +4,7 @@ This repository showcases my skills and progress in solving problems on Leetcode
 
 ## About Me  
 
-I’m a beginner in the IT field, currently studying Data Science and Machine Learning. As part of my learning process, I’ve decided to focus on solving problems, particularly from the **Pandas** section. It’s a great way to practice and improve my skills while working on real-world challenges.  
+I’m a beginner in the IT field, currently studying Data Science and Machine Learning. As part of my learning process, I’ve decided to focus on solving problems, particularly from the **Pandas** section. 
 
 ## Important Notes  
 
@@ -19,4 +19,4 @@ You might find it interesting if you:
 - Are exploring the Pandas section on Leetcode.  
 - Are looking for examples of solutions and progress.  
 
-Thank you for visiting! Follow along for updates on my journey.  
+***Thank you for visiting! Follow along for updates on my journey.**
