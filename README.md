@@ -19,4 +19,4 @@ You might find it interesting if you:
 - Are exploring the Pandas section on Leetcode.  
 - Are looking for examples of solutions and progress.  
 
-***Thank you for visiting! Follow along for updates on my journey.**
+**Thank you for visiting! Follow along for updates on my journey.**
