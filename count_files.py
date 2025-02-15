@@ -25,6 +25,7 @@ for line in content:
     elif end_marker in line:
         new_content.append(line)
         in_section = False
+        continue
     if not in_section:
         new_content.append(line)
 
