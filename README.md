@@ -15,8 +15,9 @@ I’m a beginner in the IT field, currently studying Data Science and Machine Le
 ## The number of problems I've already solved
 
 <!-- FILE_COUNT_START -->
-- `Pandas`: 0 files
-- `Sql`: 0 files
+- `Pandas`: 6 files
+- `Sql`: 6 files
+<!-- FILE_COUNT_END -->
 <!-- FILE_COUNT_END -->
 
 
