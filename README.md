@@ -12,6 +12,14 @@ I’m a beginner in the IT field, currently studying Data Science and Machine Le
 - I’m not aiming for maximum optimization at this stage or comparing my code to others.  
 - This repository is part of my learning journey, so constructive feedback is always welcome.  
 
+## The number of problems I've already solved
+
+<!-- FILE_COUNT_START -->
+- Pandas: 0
+- SQL: 0
+- Python: 0
+<!-- FILE_COUNT_END -->
+
 ## Why Check Out This Repository?  
 
 You might find it interesting if you:  
